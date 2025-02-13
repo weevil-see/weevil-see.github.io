@@ -121,6 +121,7 @@
    Author profile and links
    ========================================================================== */
 
+/* original code
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -135,7 +136,29 @@
 
   img {
     max-width: 110px;
-#    border-radius: 50%;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+*/
+/*modified code*/
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 110px;
+    border-radius: 0;  // Ensure no border-radius is applied
 
     @include breakpoint($large) {
       padding: 5px;
