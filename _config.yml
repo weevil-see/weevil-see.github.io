@@ -55,13 +55,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+#  name   : "First Lastname"
   avatar : "/assets/images/hesskollogo.jpg"
-  bio    : "Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig."
+  bio    : "Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig. Wir sind Teil der FLAGH (Faunistische LandesArbeitsGemeinschaft Hessen) "
   links:
-    - label: "Hier könnte ein Link zur FLAGH hin"
+    - label: "Dachverband: FLAGH"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "http://www.flagh.de/"
 
 footer:
   links:
