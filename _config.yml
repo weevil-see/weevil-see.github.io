@@ -56,9 +56,9 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/hesskollogo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig."
   links:
-    - label: "Website"
+    - label: "Hier könnte ein Link zur FLAGH hin"
       icon: "fas fa-fw fa-link"
       url: "https://"
 
