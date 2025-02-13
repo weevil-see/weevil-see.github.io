@@ -20,8 +20,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig.
 minimal_mistakes_skin: default
 search: true
-header:
-  image: assets/images/20220810_132935.jpg
 
 # Build settings
 markdown: kramdown
