@@ -92,3 +92,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+#this was added and has not been tested
+header:
+  image: assets/images/20220810_132935.jpg
