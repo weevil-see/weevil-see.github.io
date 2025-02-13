@@ -14,17 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#section with things added
-minimal_mistakes_skin: "default"
-include: 
-  - assets/css/custom.css
-#end of added section
-
 title: Arbeitsgemeinschaft Beispielhafter Koleopterologen (ArgeBeKol)
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig.
 minimal_mistakes_skin: default
+#section with things added
+include:
+  - assets/css/custom.css
+#end of added section
 search: true
 
 # Build settings
