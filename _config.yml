@@ -19,8 +19,6 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Die Arbeitsgemeinschaft Beispielhafter Koleopterologen ist ein Beispiel. Die Website ist noch nicht fertig.
 minimal_mistakes_skin: default
-include:
-  - assets/css/custom.css
 search: true
 
 # Build settings
