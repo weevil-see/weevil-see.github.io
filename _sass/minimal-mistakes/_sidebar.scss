@@ -145,9 +145,9 @@
   }
 }
 */
-/*modified code*/
+/*modified code. Most important changes: table-cell changed to block*/
 .author__avatar {
-  display: table-cell;
+  display: block;
   vertical-align: top;
 
   @include breakpoint($large) {
