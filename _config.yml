@@ -13,6 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+#section with things added
+minimal_mistakes_skin: "default"
+include: 
+  - assets/css/custom.css
+#end of added section
+
 title: Arbeitsgemeinschaft Beispielhafter Koleopterologen (ArgeBeKol)
 email:
 description: >- # this means to ignore newlines until "baseurl:"
