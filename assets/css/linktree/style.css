@@ -35,6 +35,18 @@ body {
 
 #userName {
     color: var(--accentColor);
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#section {
+    color: var(--accentColor);
     font-size: 1rem;
     font-weight: bold;
     line-height: 1.25;
