@@ -63,7 +63,7 @@ body {
     max-width: 675px;
     width: auto;
     display: block;
-    margin: 0;
+    margin: 25px auto;
 }
 
 .link {
