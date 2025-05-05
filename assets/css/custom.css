@@ -1,6 +1,0 @@
-.author__avatar img {
-    border-radius: 0 !important;  /* Makes it a square */
-    filter: none !important;      /* Removes greyscale effect */
-    width: auto !important;       /* Keeps original width */
-    height: auto !important;      /* Keeps original height */
-}
