@@ -11,27 +11,27 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "weevil.see"
+title_separator          : "|"
+subtitle                 : blogging about weevils and entomology
+name                     : "Jakob Jilg"
+description              : "Blogging about weevils and entomology"
+url                      : "https://weevil-see.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "weevil-see/weevil-see.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/Scan230308213350-0001.svg"
+masthead_title           : "weevil.see"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
-enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+enable_copy_code_button  : true
+copyright                : "Jakob Jilg"
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -68,11 +68,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -99,10 +99,16 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  type                   : Person
+  name                   : "Jakob Jilg"
+  links:
+  - "https://instagram.com/weevil.see"
+  - "https://www.researchgate.net/profile/Jakob-Jilg"
+  - label: "ResearchGate"
+    icon: "/assets/images/ResearchGate_icon_SVG.svg"
+    url: "https://www.researchgate.net/profile/Jakob-Jilg"
+  - "https://bsky.app/profile/weevil-see.bsky.social"
+  - "https://www.inaturalist.org/people/2595369"
 # Analytics
 analytics:
   provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -113,15 +119,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Jakob Jilg"
+  avatar           : "/assets/images/global/bio-photo.JPG"
+  bio              : "Entomologist"
+  location         : "Frankfurt am Main, Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:weevil-see.blog@posteo.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,12 +137,21 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/weevil.see/"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Jakob-Jilg"
+    - label: "BlueSky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/weevil-see.bsky.social"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/weevil-see"
+    - label: "iNaturalist"
+      icon: "images/iNat1.png"
+      url: "https://www.inaturalist.org/people/2595369"
 
 # Site Footer
 footer:
@@ -153,18 +168,15 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+    - label: "follow via Email"
+      icon: "fas fa-fw fa-envelope"
+      url:  "mailto:weevil-see.blog@posteo.de?subject=subscribe%20to%20blog%20via%20email&body=Hi%20Jakob,%0A%0Acould%20you%20send%20me%20an%20email%20if%20you%20post%20something%20new?%0A%0AThanks!"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - assets/images/icons
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
