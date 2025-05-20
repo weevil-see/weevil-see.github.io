@@ -26,7 +26,7 @@ url                      : "https://weevil-see.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "weevil-see/weevil-see.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Scan230308213350-0001.svg"
+logo                     : "/assets/images/ixapion_50dpi.png"
 masthead_title           : "weevil.see"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200

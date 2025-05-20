@@ -20,3 +20,8 @@ We live in strange times: The technological possibilities for entomologists have
 Of course the number of potential readers for this blog is small. But if I can spark enthusiasm or offer advice to just one person on their journey to becoming an entomologist, then my effort is worth it!
 I started communicating about weevils on [Instagram](https://www.instagram.com/weevil.see/), but I felt very limited in how I could express myself (unfortunately I like long texts).
 
+## The logo
+<div style="text-align: center;">
+  <img src="/assets/images/ixapion_300dpi.png" alt="Linocut of Ixapion variegatum by Marc Hoffmann" width="300" />
+  {{ "This is a linocut of *Ixapion variegatum* by my friend [Marc Hoffmann](https://www.researchgate.net/profile/Marc-Hoffmann), a renegade who left the study of weevils to become an expert in robber flies (Diptera: Asilidae)." | markdownify }}
+</div>
