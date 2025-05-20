@@ -1,7 +1,7 @@
 ## About
 This repository hosts the source code and content for my personal blog at https://weevil-see.github.io/.
 
-The blog is built using GitHub Pages and powered by [jekyll](https://jekyllrb.com/) using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. All content is written and maintained by me, and the site is regularly updated with new posts and improvements.
+The blog is built using [Jekyll](https://jekyllrb.com/) with the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme, and hosted for free via Github Pages. All content is written and maintained by me, and the site is regularly updated with new posts and improvements.
 
 Feel free to explore the code, suggest changes, or reach out if you have any questions or feedback.
 
