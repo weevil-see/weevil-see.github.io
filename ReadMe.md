@@ -6,6 +6,11 @@ The blog is built using [Jekyll](https://jekyllrb.com/) with the [Minimal Mistak
 Feel free to explore the code, suggest changes, or reach out if you have any questions or feedback.
 
 Notes:
+After moving to a new domain, get new tokens for:
+google_site_verification
+bing_site_verification
+
+
 Site performance might be impacted by the setting
 search_full_content      : true
 in _config.yml
