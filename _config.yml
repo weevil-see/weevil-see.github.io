@@ -28,7 +28,7 @@ repository               : "weevil-see/weevil-see.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ixapion_50dpi.png"
 masthead_title           : "weevil.see"
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 enable_copy_code_button  : true
 copyright                : "Jakob Jilg"
@@ -170,7 +170,9 @@ footer:
       # url:
     - label: "follow via Email"
       icon: "fas fa-fw fa-envelope"
-      url:  "mailto:weevil-see.blog@posteo.de?subject=subscribe%20to%20blog%20via%20email&body=Hi%20Jakob,%0A%0Acould%20you%20send%20me%20an%20email%20if%20you%20post%20something%20new?%0A%0AThanks!"
+      url:  "mailto:weevil-see.blog@posteo.de?subject=subscribe%20to%20blog%20via%20email&body=Hi%20Jakob,%0A%0ACould%20you%20send%20me%20an%20email%20when%20you%20post%20something%20new?%0A%0AThanks!%0A%0AExplanation:%20My%20blog%20is%20intentionally%20low-tech,%20and%20I%20don%E2%80%99t%20use%20third-party%20services%20for%20subscriptions.%20I%E2%80%99ll%20add%20your%20email%20(address%20only)%20to%20a%20private%20spreadsheet%20on%20my%20computer%20and%20email%20you%20whenever%20I%20post%20something.%20Send%20me%20another%20email%20anytime%20to%20unsubscribe.%0AAlternatively,%20you%20could%20subscribe%20to%20the%20RSS%20feed%20instead.%20Some%20Email%20programs%20like%20Thunderbird%20have%20integrated%20RSS%20readers,%20so%20perhaps%20you%20don%27t%20even%20need%20to%20install%20something%20extra."
+
+
 
 # Reading Files
 include:
@@ -332,6 +334,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
