@@ -7,9 +7,12 @@ author_profile: true
 
 Hi! I’m Jakob (he/him), an entomologist and master's student with a focus on weevils and biodiversity.
 
-<div style="text-align: center;">
-  <em> In this work, one should always consider oneself a student who can in a lifetime learn comparatively little of what there is to be learned.</em> - E.C. Zimmerman, Australian Weevils Vol. VI
-</div>
+My former social media handle "*@curculio.noidea*" was a nod to the labyrinthine complexity of weevil taxonomy, expressing that I have "no idea" about the Curculionoidea.
+> *“In this work, one should always consider oneself a student who can in a lifetime learn comparatively little of what there is to be learned.”*  
+> — *E.C. Zimmerman, Australian Weevils, Vol. VI*
+
+There's a lot to learn, discover and to marvel at.<br>
+Weevil see where this journey is going!
 
 ## Contact
 I'm happy to receive your email: <i class="fas fa-fw fa-envelope"></i> [weevil-see.blog@posteo.de](mailto:weevil-see.blog@posteo.de)

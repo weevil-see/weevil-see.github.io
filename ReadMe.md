@@ -5,6 +5,12 @@ The blog is built using [Jekyll](https://jekyllrb.com/) with the [Minimal Mistak
 
 Feel free to explore the code, suggest changes, or reach out if you have any questions or feedback.
 
+To do:
+implement usage of jekyll-seo-tag plugin
+
+Ideas for posts:
+Why the CO1 Gene is not suitable for Species Delimitation
+
 Notes:
 After moving to a new domain, get new tokens for:
 google_site_verification
