@@ -195,8 +195,11 @@ exclude:
   - config
   - Gemfile
   - Gruntfile.js
+  - "*.sh"
   - gulpfile.js
   - LICENSE
+  - ReadMe.md
+  - staticman.yml
   - log
   - node_modules
   - package.json
@@ -337,3 +340,12 @@ defaults:
       comments: true
       share: true
       related: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
