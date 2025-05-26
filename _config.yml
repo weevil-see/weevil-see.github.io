@@ -23,9 +23,9 @@ subtitle                 : blogging about weevils and entomology
 name                     : "Jakob Jilg"
 description              : "Blogging about weevils and entomology"
 url                      : "https://weevil-see.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"""
 repository               : "weevil-see/weevil-see.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# teaser                   : path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/ixapion_50dpi.png"
 masthead_title           : "weevil.see"
 breadcrumbs              : true
