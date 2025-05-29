@@ -3,6 +3,8 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
+toc: true
+toc_label: "Contents"
 ---
 
 Hi! I’m Jakob (he/him), an entomologist and master's student with a focus on weevils and biodiversity.

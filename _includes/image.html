@@ -1,0 +1,29 @@
+<!-- Custom HTML for image captions.
+Invoke in Markdown files like this (without raw and endraw):
+
+{% raw %}
+{% include image.html file="/assets/images/resources/coleopterorum_catalogus.png" description="This is an image." %}
+{% endraw %}
+
+Idea from: https://kmcgillivray.github.io/captions-for-images-with-jekyll/
+-->
+<!--
+<img src="{{ include.file }}" alt="{{ include.description }}">
+<span class="caption">{{ include.description }}</span>
+
+
+<figure class="image-captioned">
+  <img src="{{ include.file }}" alt="{{ include.description }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+-->
+<figure style="margin-bottom: 0;">
+  <img
+    src="/assets/images/resources/coleopterorum_catalogus.png"
+    alt="Exemplary entries from the Coleopterorum Catalogus. Valid species are printed in bold. The first citation following each name is the original description; subsequent citations refer to additional taxonomic literature."
+    style="max-width:100%; display: block; margin-bottom: 0;"
+  />
+  <figcaption style="font-size:0.9em; margin-top: 0; padding-left: 0.5em;">
+   {{ include.description | markdownify }}
+  </figcaption>
+</figure>
