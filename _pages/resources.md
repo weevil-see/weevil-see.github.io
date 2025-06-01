@@ -28,7 +28,7 @@ The monumental piece of work is still relevant for several reasons:
 %}
 
 Wilhelm Junk, the publisher of the original *Coleopterorum Catalogus auspiciis et auxilio*, was Jewish. After fleeing Nazi Germany to the Netherlands, he and his wife tragically took their own lives in December 1942, just before the Gestapo arrived to arrest and deport them. Another series named "*Coleopterorum Catalogus Supplementa*" was started to keep the Catalogus updated, but it eventually ceased to be published.\
-Nowadays, we tend to rely on online databases such as *Catalogue of Life* or *GBIF*. I noticed that they do not meet the necessary standards for entomological work, as they are either incomplete or contain too many errors, which stem from automated data aggretation. For taxonomic work, it's important to stick to sources which where carefully compiled by experts.
+Nowadays, we tend to rely on online databases such as *Catalogue of Life* or *GBIF*. I noticed they do not meet the necessary standards for entomological work, as they are either incomplete or contain too many errors, which stem from automated data aggretation. For taxonomic work, it's important to stick to sources which where carefully compiled by experts.
 
 To be continued
 

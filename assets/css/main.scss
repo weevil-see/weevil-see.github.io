@@ -10,3 +10,19 @@ search: false
 
 //the rest of the file was added by me (Jakob):
 
+figure.image-captioned {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+figure.image-captioned img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+figure.image-captioned figcaption {
+  font-size: 0.9em;
+  color: #6c757d; /* muted gray */
+  margin-top: 0.3rem;
+  font-style: italic;
+}
