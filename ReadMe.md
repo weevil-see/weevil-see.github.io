@@ -16,6 +16,9 @@ After moving to a new domain, get new tokens for:
 google_site_verification
 bing_site_verification
 
+Minimal Mistakes Cheat Sheet:\
+https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/
+
 
 Site performance might be impacted by the setting
 search_full_content      : true
