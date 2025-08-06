@@ -23,8 +23,10 @@ The monumental piece of work is still relevant for several reasons:
 - It is a key historical document. Understanding the historical classification of weevils is essential for interpreting older entomological literature. The Catalogus also served as the foundation for many later works and can be used to trace the origins of information (including errors).
 
 {% include image.html 
-    file="/assets/images/resources/coleopterorum_catalogus.png" 
-    description="<strong>Exemplary entries from the <em>Coleopterorum Catalogus</em>.</strong> Valid species are printed in <strong>bold</strong>. The first citation following each name is the original description; subsequent citations refer to additional taxonomic literature. Synonymous names are given in italics, but for the variations (var.) I'm not exactly sure if they where also considered synonymous. Occasionally, references concerning biology or other topics are included under the corresponding headings (here &quot;Biologie&quot;, German for &quot;biology&quot;). Distributional data is found on the right, written in German." 
+    image_path="/assets/images/resources/coleopterorum_catalogus.png" 
+    caption="Exemplary entries from the **Coleopterorum Catalogus**:<br>
+    Valid species are printed in **bold**. The first citation following each name is the original description; subsequent citations refer to additional taxonomic literature. Synonymous names are given in *italics*, but for the variations (var.) I'm not exactly sure if they where also considered synonymous. Occasionally, references concerning biology or other topics are included under the corresponding headings (here 'Biologie', German for 'biology'). Distributional data is found on the right, written in German."
+    width="80%"
 %}
 
 Wilhelm Junk, the publisher of the original *Coleopterorum Catalogus auspiciis et auxilio*, was Jewish. After fleeing Nazi Germany to the Netherlands, he and his wife tragically took their own lives in December 1942, just before the Gestapo arrived to arrest and deport them. Another series named "*Coleopterorum Catalogus Supplementa*" was started to keep the Catalogus updated, but it eventually ceased to be published.\
