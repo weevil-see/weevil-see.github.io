@@ -7,17 +7,13 @@ layout: single
 header: #This will place Title and if defined excerpt (otherwise just the text) on the header image
   overlay_image: /assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg
   caption: "Caption"
-#header: # This will keep the header image free of text
-#  image: /assets/images/posts/1.png
-#  caption: "Taxonomy in a modern context of scientific classification."
-#  teaser: /assets/images/posts/1_teaser.png
-
+  teaser: /assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg
 author: Jakob Jilg
 author_profile: true
-categories:
-  - Taxonomy
+categories: Taxonomy
 tags:
   - taxonomy
+  - species identification
 toc: true
 toc_label: "In This Article"
 toc_sticky: true
@@ -33,8 +29,6 @@ seo:
 ---
 
 Names are a system for storing and retrieving information. When we use the wrong name, everything we think we know about the object of the name is incorrect.
-Misidentifications are very common. They're especially problematic when tied to new information or used as a reference for another identification by someone else.\
-I've seen cases on [iNaturalist](http://www.inaturalist.org){:target="_blank" rel="noopener noreferrer"} where misidentifications were picked up by other users and used as references for their own IDs.
 
 My key points here are:
 - Identification is not merely about recognizing ONE species; it’s about considering and excluding all other plausible candidates.
