@@ -126,6 +126,14 @@ From a philosophical point of view, knowledge is never 100% certain. Scientific 
 If we find a weevil we can put forth the hypothesis "the weevil in my hands is identical with the type specimen of *Ceutorhynchus erysimi*", thus assigning that name to our specimen as an identification.\
 Through examination of evidence, like morphological characters but also locality, habitat and host plant, we can support or refute the hypothesis.
 
+{% include image.html 
+    image_path="/assets/images/posts/identification/ceutorhynchus_3b.png" 
+    caption="While three *Ceutorhynchus* from the image above look very similar, they differ significantly in the shape of the male genitalia. To test a hypothetical identification based on external characters, a male specimen can be dissected to reveal the genitalia.<br>
+    <small><i>(Image: Rheinheimer & Hassler 2013: Die Rüsselkäfer Baden-Württembergs, modified)</i></small>"
+    width="100%"
+    popup="true"
+%}
+
 ### An example to illustrate why identifications are always preliminary
 The main problem is that not only our identification is hypothetical, but also the concept of *Ceutorhynchus erysimi*. In case someone else discovers there are two species behind the concept, our identification needs to be re-examined. This is not common, but probably more common than you think.
 
