@@ -1,8 +1,9 @@
 ---
 title: "Species Identifications: Common Pitfalls"
 excerpt: "Some thoughts about Identifications. How do we identify properly? How do we avoid mistakes?"
-date: 2025-05-22
-last_modified_at: 2025-06-01
+date: 2025-08-06
+show_date: true
+last_modified_at: 2025-08-08
 layout: single
 header: #This will place Title and if defined excerpt (otherwise just the text) on the header image
   overlay_image: /assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg
@@ -120,7 +121,7 @@ In an image, the number of observable characters is very limited. In such a case
 
 {% include image.html 
     image_path="/assets/images/posts/identification/ceutorhynchus_3b.png" 
-    caption="While three *Ceutorhynchus* from the image above look very similar, they differ significantly in the shape of the male genitalia. To test a hypothetical identification based on external characters, a male specimen can be dissected to reveal the genitalia.<br>
+    caption="While those three *Ceutorhynchus* from the image above look very similar, they differ significantly in the shape of the male genitalia. To test a hypothetical identification based on external characters, a male specimen can be dissected to reveal the genitalia.<br>
     <small><i>(Image: Rheinheimer & Hassler 2013: Die Rüsselkäfer Baden-Württembergs, modified)</i></small>"
     width="100%"
     popup="true"
