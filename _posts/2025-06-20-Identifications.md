@@ -1,5 +1,5 @@
 ---
-title: "Species Identifications: Common Pitfalls"
+title: "Species Identification in Taxonomy: Common Mistakes and How to Avoid Them"
 excerpt: "Some thoughts about Identifications. How do we identify properly? How do we avoid mistakes?"
 date: 2025-08-06
 show_date: true
@@ -21,12 +21,11 @@ toc_sticky: true
 read_time: true
 related: true
 share: true
-comments: true
-canonical_url: 
+comments: false
+canonical_url: https://weevil-see.github.io/taxonomy/Identifications/
 seo:
   type: BlogPosting
-  name: "Species Identifications from a Science Perspective"
-  description: "Why names matter in science, and how identification underpins taxonomy and communication in biology."
+  name: "Species Identification in Taxonomy: Common Mistakes and How to Avoid Them"
 ---
 
 Names are a system for storing and retrieving information. When we use the wrong name, everything we think we know about the object of the name is incorrect.
