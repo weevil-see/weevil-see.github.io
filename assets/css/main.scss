@@ -26,3 +26,13 @@ figure.image-captioned figcaption {
   margin-top: 0.3rem;
   font-style: italic;
 }
+
+/* Hanging indent for references:
+   text-indent: negative value moves first line left,
+   padding-left shifts all lines right,
+   result: lines after first are indented */
+.reference {
+  text-indent: -2em;
+  padding-left: 2em;
+  margin-bottom: 0.5em;
+}
