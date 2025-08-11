@@ -2,12 +2,18 @@
 layout: single
 title: "Weevil resources"
 permalink: /resources/
-author_profile: false
+author: Jakob Jilg
+author_profile: true
 toc: true
 toc_label: "Contents"
 toc_sticky: true
 date: 2025-08-09
 last_modified_at: 2025-08-11
+seo:
+  type: Article
+  name: "Weevil resources"
+  description: "A collection of weevil literature. It is meant to get you started with weevil identification."
+share: true
 ---
 Last modified: {{ page.last_modified_at | date: "%Y-%m-%d" }}\
 __*Something missing? Any comments or questions? Write me an email!*__\
