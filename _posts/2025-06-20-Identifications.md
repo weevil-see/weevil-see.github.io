@@ -1,12 +1,13 @@
 ---
-title: "Species Identification in Taxonomy: Common Mistakes and How to Avoid Them"
-excerpt: "Some thoughts about Identifications. How do we identify properly? How do we avoid mistakes?"
+title: "Species Identification: Common Mistakes and How to Avoid Them"
+excerpt: "Some thoughts about Identifications"
 date: 2025-08-06
 show_date: true
 last_modified_at: 2025-08-08
 layout: single
 header: #This will place Title and if defined excerpt (otherwise just the text) on the header image
   overlay_image: /assets/images/posts/identification/header.jpg
+  overlay_filter: 0.2
   caption: "An altar to species identification"
   teaser: /assets/images/posts/identification/teaser.jpg
 author: Jakob Jilg
