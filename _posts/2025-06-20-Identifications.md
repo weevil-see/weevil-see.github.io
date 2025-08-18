@@ -6,9 +6,9 @@ show_date: true
 last_modified_at: 2025-08-08
 layout: single
 header: #This will place Title and if defined excerpt (otherwise just the text) on the header image
-  overlay_image: /assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg
-  caption: "Caption"
-  teaser: /assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg
+  overlay_image: /assets/images/posts/identification/header.jpg
+  caption: "An altar to species identification"
+  teaser: /assets/images/posts/identification/teaser.jpg
 author: Jakob Jilg
 author_profile: true
 categories: Taxonomy
