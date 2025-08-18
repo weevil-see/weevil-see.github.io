@@ -147,7 +147,7 @@ The explanation for this strange phenomenon is that they have seen enough specim
 
 
 {% include image.html 
-    image_path="/assets/images/posts/identification/IMG_8440-IMG_8442_pregamma_1.09_mantiuk06_contrast_mapping_0.1_saturation_factor_0.8_detail_factor_1_postsaturation_1_postgamma_1.jpg" 
+    image_path="/assets/images/posts/identification/header.jpg" 
     caption="An altar to species identification, staged to illustrate this article.<br>
     We sacrifice a type specimen to the deity of taxonomy: grant us luck and resilience whenever life feels like navigating a cryptic key with dubious illustrations and erratic vocabulary. May clear characters and concise language help us to make the right decisions along the way. May the results of our identifications spark joy in our hearts while adding new species to regional faunistic catalogues. Amen.<br>
     <small><i>Image composed from three exposures with varying brightness (<a href='https://en.wikipedia.org/wiki/Multi-exposure_HDR_capture' target='_blank' rel='noopener noreferrer'>HDR</a>), processed using the tone mapping filter by <a href='http://dx.doi.org/10.1145/1166087.1166095' target='_blank' rel='noopener noreferrer'>Mantiuk et al. (2006)</a> in Luminance HDR.</i></small>"
