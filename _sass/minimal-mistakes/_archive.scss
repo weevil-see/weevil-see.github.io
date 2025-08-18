@@ -126,7 +126,17 @@
     margin: 0 0 4px;
     font-size: 0.6em;
   }
+
+  .archive__item-title {
+    margin-top: 0.25em;
+  }
+
+  /* Add 2em of space under excerpts */
+  .archive__item-excerpt {
+    margin-bottom: 2em;
+  }
 }
+
 
 /*
    Grid view
