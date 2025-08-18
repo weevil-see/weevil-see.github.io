@@ -2,12 +2,13 @@
 layout: single
 title: "About"
 permalink: /about/
+author: Jakob Jilg
 author_profile: true
 toc: true
 toc_label: "Contents"
 ---
 
-Hi! I’m Jakob (he/him), an entomologist and master's student with a focus on weevils (Curculionoidea) and biodiversity.
+Hi! I’m Jakob Jilg (he/him), an entomologist and master's student with a focus on weevils (Curculionoidea) and biodiversity.
 
 My former social media handle "*@curculio.noidea*" was a nod to the labyrinthine complexity of weevil taxonomy, expressing that I have "no idea" about the Curculionoidea.
 > *“In this work, one should always consider oneself a student who can in a lifetime learn comparatively little of what there is to be learned.”*  
