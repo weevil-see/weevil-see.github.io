@@ -1,5 +1,5 @@
 ---
-title: "Weevils on Agave Plants Part 1"
+title: "Weevils on Agave Plants (Part 1)"
 excerpt: "Speckled Agave Weevil (*Peltophorus polymitus*)"
 date: 2025-08-20
 show_date: true
@@ -59,6 +59,8 @@ gallery:
 
 ---
 I'm reclycling my instagram posts here, to make them accessible for everyone who doesn't use the platform.
+
+It's always interesting to know the weevils which are associated with well-known plants. So here's the first part of a series on Agave-associated weevils!
 
 {% include gallery %}
 
