@@ -3,7 +3,7 @@ title: "Weevils on Agave Plants (Part 1)"
 excerpt: "Speckled Agave Weevil (*Peltophorus polymitus*)"
 date: 2025-08-20
 show_date: true
-last_modified_at: 2000-10-10
+last_modified_at: 2025-08-20
 layout: single
 header: #This will place Title and if defined excerpt (otherwise just the text) on the header image
   overlay_image: https://raw.githubusercontent.com/weevil-see/files.weevil-see.github.io/refs/heads/main/media/peltophorus1/header.JPG
