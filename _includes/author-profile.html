@@ -39,15 +39,6 @@
         {% endfor %}
       {% endif %}
 
-      <!-- Hardcoded link goes here outside of the loop -->
-<li>
-  <a href="https://whatever.com">
-    <svg class="svg-inline--fa fa-w-14 fa-fw" aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-      <!-- svg paths and stuff -->
-    </svg>
-  </a>
-</li>
-
       {% if author.uri %}
         <li>
           <a href="{{ author.uri }}" itemprop="url" rel="me">
