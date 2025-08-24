@@ -15,7 +15,8 @@ seo:
   description: "A collection of weevil literature. It is meant to get you started with weevil identification."
 share: true
 ---
-Last modified: {{ page.last_modified_at | date: "%Y-%m-%d" }}\
+Last modified: {{ page.last_modified_at | date: "%Y-%m-%d" }}
+
 __*Something missing? Any comments or questions? Write me an email!*__\
 This page is listing the most basic sources of information on weevils all around the world. It is meant to get you started if you're struggling to get an overview.\
 Dont worry if something is not accessible for free or even out of print. Scientists help each other in such cases, just write an email.

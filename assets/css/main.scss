@@ -36,3 +36,13 @@ figure.image-captioned figcaption {
   padding-left: 2em;
   margin-bottom: 0.5em;
 }
+
+//Nur h2 mit der Linie hat seltsam gewirkt, es sah so aus als ob h2 wichtiger ist als h1
+.page__content h1 {
+  padding-bottom:0.5em;
+  border-bottom:1px solid #337164
+}
+.page__content h2 {
+  padding-bottom:0.5em;
+  border-bottom:none
+}
