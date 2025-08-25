@@ -112,10 +112,12 @@ As there are useful tools to search for files, I don't spend much time curating 
 I still maintain some folders where I store files that I need really often (or for specific projects), and it makes sense that they are stored by topic. But each of those files has a duplicate in the main collection.
 
 ### Searching PDF collections with Recoll (full-text)
-<b><a href="https://www.recoll.org/" target="_blank" rel="noopener">Recoll</a></b> is a software to search large collections of PDF files, but also other text-containing file formats.\
-This is something I learned from Lutz Behne, but he used another software, which was already quite old and probably not available for Linux.\
+<b><a href="https://www.recoll.org/" target="_blank" rel="noopener">Recoll</a></b> is a local search engine for PDF files, but also other text-containing file formats. It works similar to a google search, but on local files instead of the internet.\
+This is something I learned from Lutz Behne, but he used another very similar software, which was already quite old and probably not available for Linux.\
 To get started, you'll have to set up an index. The index is created by the program to be able to search efficiently.\
 Creating the index takes a few hours for several ten thousand files, but afterwards each search is done instantly. You can specify directories to index, and while searching you can include and exclude them as you like. This is useful if you index more than one separate collection. You could even index your Zotero data folder.
+
+I search mainly for taxon names. The results are ranked by relevance, and typically if I search for a genus name, the most recent revision of that genus is among the first results. I have also searched for localities (e.g., island names), and found relevant literature that would have been difficult to discover elsewhere.
 
 [![styled-image](/assets/images/posts/literature/Screenshot_Recoll.png "The Bookworm, Carl Spitzweg"){: .align-center style="width: 80%;"}](/assets/images/posts/literature/Screenshot_Recoll.png "Recoll, graphical user interface")
 **Recoll, graphical user interface**. In this case I have searched only one of my two directories for weevil literature (curculionoidea_library is selected, the download from <a href="https://curculionoidea.org" target="_blank" rel="noopener">curculionoidea.org</a> not). In the results table, you can see why it is important that file names have a human-readable part to give an idea about the file content: Most PDF files don't contain the title of the publication in PDF metadata, not even files downloaded from ResearchGate!)
