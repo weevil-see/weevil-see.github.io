@@ -127,7 +127,8 @@ You can view the results in different modes; I prefer a simple table. Double-cli
 
 I think Recoll is pretty straightforward. You can get started without an extensive tutorial. The <a href="https://www.recoll.org/pages/documentation.html" target="_blank" rel="noopener">documentation</a> is very helpful. During indexing you'll probably get soft errors, check the log file to learn more about them. In my case the problem was that Recoll cannot read .doc files on its own, in the log it asked me to install the separate package "antiword" to fix that.
 
-**Recoll will only search within the index. Whenever you add new files to a directory, you have to update the index (or rebuild it from scratch) to include the new file in the results!**
+**Recoll will only search within the index. Whenever you add new files to a directory, you have to update the index (or rebuild it from scratch) to include the new file in the results!**\
+The index can be configured to update in real time or on a regular schedule, but I don’t think that’s necessary since another background task could slow down the system. I just update it manually whenever I feel it’s needed.
 
 # Additional Information
 
