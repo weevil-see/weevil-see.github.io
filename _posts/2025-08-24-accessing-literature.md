@@ -115,7 +115,7 @@ I still maintain some folders where I store files that I need really often (or f
 <b><a href="https://www.recoll.org/" target="_blank" rel="noopener">Recoll</a></b> is a local search engine for PDF files, but also other text-containing file formats. It works similarly to a Google search, but for files on your computer.\
 This is something I learned from Lutz Behne. He used a similar program, which was already quite old and probably not available for Linux.\
 To get started, you'll have to set up an index. The index is created by the program to be able to search efficiently.\
-Creating the index takes a few hours for several ten thousand files, but afterwards each search is done instantly. You can specify directories to index, and while searching you can include and exclude them as you like. This is useful if you index more than one separate collection. You could even index your Zotero data folder.
+Creating the index takes an hour or two for several ten thousand files, but afterwards each search is done instantly. You can specify directories to index, and while searching you can include and exclude them as you like. This is useful if you index more than one separate collection. You could even index your Zotero data folder.
 
 I search mainly for taxon names. The results are ranked by relevance, and typically if I search for a genus name, the most recent revision of that genus is among the first results. I have also searched for localities (e.g., island names) and found relevant literature that would have been difficult to discover elsewhere.
 
