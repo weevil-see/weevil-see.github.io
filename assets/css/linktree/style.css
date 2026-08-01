@@ -94,6 +94,24 @@ body {
     color: var(--bgColor);
 }
 
+.link-featured {
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+    font-weight: bold;
+}
+
+@media (hover: hover) {
+    .link-featured:hover {
+        background-color: transparent;
+        color: var(--accentColor);
+    }
+}
+
+.link-featured:active {
+    background-color: transparent;
+    color: var(--accentColor);
+}
+
 #hashtag {
     position: relative;
     padding-bottom: 20px;
